@@ -1,5 +1,4 @@
-# Cuisine PRediction
-Cuisine Prediction
+# Cuisine Prediction using Python
 
 Over the years, people have tried to explore new ingredients and incorporate them into recipes or
 produce new recipes all together. One of the obvious relations that we would like to explore is
